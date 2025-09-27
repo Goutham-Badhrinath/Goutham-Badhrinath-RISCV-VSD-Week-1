@@ -1,4 +1,4 @@
-# Day 1 - iVerilog, GTKwave, Yosys & Sky130 PDK
+# Day 1 - Introduction to Verilog RTL Design and Synthesis
 
 ---
 
